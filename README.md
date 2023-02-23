@@ -22,7 +22,7 @@
 - :technologist: I love using Software as a solution for every `Problem` .
 - :computer: I am a competitive programmer .
 - :student: I’m currently learning: `Front End` and `Back End`.
-- :thinking: I’m open for: `An Intern` or a new `job opportunity`.
+- :thinking: `Dream` big — but remember dreams without `goals` are just dreams, and they ultimately fuel disappointment.
 - :nerd_face: Always `learning new things`
 
 <br>
