@@ -149,7 +149,7 @@
    <a href="https://github.com/Oussama95el"><img alt="Oussama95el's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Oussama95el&custom_title=Oussama's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-<hr>
+
 <br/>
 
 ## :trophy: Git profile Trophies
