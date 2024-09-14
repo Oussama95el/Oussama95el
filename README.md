@@ -18,7 +18,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I studied Web and mobile Developer at `YouCode`.
+- :school: I studied Web and mobile Developement at `YouCode`.
 - 👷: I am a Senior Web Developer and Technical consultent for `CEGEDIM Maroc` .
 - :technologist: I love using Software as a solution for every `Problem` .
 - :computer: I am a competitive programmer .
