@@ -21,9 +21,10 @@
 - :school: I am a Junior Web Developer at `YouCode` .
 - :technologist: I love using Software as a solution for every `Problem` .
 - :computer: I am a competitive programmer .
-- :student: I’m currently learning: `Front End` and `Back End`.
-- :thinking: `Dream` big — but remember dreams without `goals` are just dreams, and they ultimately fuel disappointment.
+- 🖥️: I’m currently working:  for `SY by CEGEDIM`.
+- :thinking: `Dream` big — but remember dreams without `goals` are just dreams, and they ultimately fuel `disappointment`.
 - :nerd_face: Always `learning new things`
+- :secret: haven't committed much in the last year because of the project i am working on is top secret but i will very soon start working on a personnel project 🥇
 
 <br>
 
