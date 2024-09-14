@@ -18,7 +18,8 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a Junior Web Developer at `YouCode` .
+- :school: I studied Web and mobile Developer at `YouCode`.
+- 👷: I am a Senior Web Developer and Technical consultent for `CEGEDIM Maroc` .
 - :technologist: I love using Software as a solution for every `Problem` .
 - :computer: I am a competitive programmer .
 - 🖥️: I’m currently working:  for `SY by CEGEDIM`.
